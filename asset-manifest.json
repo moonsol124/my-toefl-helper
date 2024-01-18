@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/my-toefl-helper/static/css/main.2bbdef56.css",
-    "main.js": "/my-toefl-helper/static/js/main.392d608f.js",
+    "main.js": "/my-toefl-helper/static/js/main.e72741fa.js",
     "static/js/787.d9f95c8d.chunk.js": "/my-toefl-helper/static/js/787.d9f95c8d.chunk.js",
     "static/media/logo.svg": "/my-toefl-helper/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/my-toefl-helper/index.html",
     "main.2bbdef56.css.map": "/my-toefl-helper/static/css/main.2bbdef56.css.map",
-    "main.392d608f.js.map": "/my-toefl-helper/static/js/main.392d608f.js.map",
+    "main.e72741fa.js.map": "/my-toefl-helper/static/js/main.e72741fa.js.map",
     "787.d9f95c8d.chunk.js.map": "/my-toefl-helper/static/js/787.d9f95c8d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2bbdef56.css",
-    "static/js/main.392d608f.js"
+    "static/js/main.e72741fa.js"
   ]
 }
